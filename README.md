@@ -13,7 +13,7 @@ A batch game engine created by single person
  - Is actively developed
 
 # Usage
-Engine is not released with proper tutorial or documentation about how to use it but you can see it in action in my game Legends of Wpierdol
+Engine is not released with proper tutorial or documentation about how to use it but you can see it in action in my game Legends of Wpierdol (in my other github repository or in projects tab)
 
 # Contact
 Tiktok: @szczur_09
