@@ -10,3 +10,10 @@ A batch game engine created by single person
  - Is quick and fast (tested on i5-9600K, Windows 10 Home)
  - Is easy to code in
  - Batch games made in this engine even work in Windows XP
+ - Is actively developed
+
+# Usage
+Engine is not released with proper tutorial or documentation about how to use it but you can see it in action in my game Legends of Wpierdol
+
+# Contact
+Tiktok: @szczur_09
